@@ -63,7 +63,7 @@ int main(int argc, char **argv)
 {
   if (argc < 5)
     {
-      fprintf(stderr,"Usage: %s partition output.wav bpm silence\n",argv[0]);
+      fprintf(stderr,"Usage: %s partition output.wav bpm silence\nsilence should be 1 to add silence between notes.\n",argv[0]);
       return 0;
     }
     
