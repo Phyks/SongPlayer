@@ -32,6 +32,11 @@ This program allows you to write a simple music sheet without always looking for
 * RE, MI, FA, SOL, LA, SI, DO (where LA is 440Hz)
 * RE2, MI2, FA2, SOL2, LA2, SI2, DO2 (where LA is 880Hz).
 
+or the english corresponding notations :
+
+* D0, E0, F0, G0, A, B, C (where A is 440Hz)
+* D, E, F, G, A2, B2, C2 (where A2 is 880Hz)
+
 Length is any integer you want. It will define the length of the note (play with both _length_ and _bpm_ (during playback) params to get what you want).
 
 You can use the _-o_ (_--output_) option with a filename as argument to store the generated music sheet to this specific file.
