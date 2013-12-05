@@ -9,6 +9,7 @@ This is just a simple C code to handle wave files (see files wave_stuf.* for the
 * _generateur.c_ which is the main program
 * _generateur_musicsheet.py_ which is just a simple program to generate basic music sheet to use with the main program
 * _wave_stuff.*_ which are the functions to handle wave files
+* _Live_player/*_ : a python script to play music in live, using a, b, c, d, e, f and g keys on your keyboard.
 
 ## Usage of the main program
 
